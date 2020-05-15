@@ -1,0 +1,78 @@
+body{
+    margin: 0px;
+}
+.calc
+{
+    width: 400px;
+    height: 500px;
+    border: solid 6px;
+    margin-left: 370pt;
+    margin-top: 50pt;
+    border-radius: 15pt;
+    border-style: double;
+    box-shadow: 5px 5px 18px 14px #d1a4a4;
+    background-color: rgb(148, 136, 136);
+}
+
+#screen
+{
+    height: 77px;
+    width: 340px;
+    margin-left: 26px;
+    margin-top: 30px;
+    pointer-events: none;
+    background-color: rgb(212, 212, 157);
+    border:groove lightgray;
+    text-align: right;
+    text-size-adjust: 20px;
+    text-decoration-color: black;
+font-size: xx-large;
+    
+}
+.btn1
+{
+    height: 39pt;
+    width: 42pt;
+    margin-left: 32px;
+    margin-top: 15px;
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: rgb(187, 205, 240);
+    box-shadow: 1px 1px 1px 1px lightsteelblue;
+}
+
+.btn
+{
+    height: 39pt;
+    width: 42pt;
+    margin-left: 32px;
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: rgb(176, 228, 160);
+    box-shadow: 1px 1px 1px 1px rgb(187, 210, 240);
+}
+
+.btn2
+{
+    height: 39pt;
+    width: 42pt;
+    margin-left: 32px;
+    margin-top: 15px;
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: rgb(184, 216, 224);
+    box-shadow: 1px 1px 1px 1px lightsteelblue;
+}
+
+#cancel
+{height: 39pt;
+    width: 42pt;
+    margin-left: 308px;
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: rgb(243, 206, 112);
+    box-shadow: 1px 1px 1px 1px lightsteelblue;
+ 
+}
